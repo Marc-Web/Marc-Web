@@ -1,4 +1,4 @@
-### Hi there 👋
+Oi! Meu nome é Marconi, estudo desenvolvimento de software na Trybe. Estou na metade do curso. Estou concluindo o módulo de Front-end, e  em breve começarei o bloco de back-end (hoje é 16/08/21 - 14:38). Nesse momento, quero primeiro concluir o curso, que termina em março de 2022, para poder aplicar para oportunidades.
 
 <!--
 **Marc-Web/Marc-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
