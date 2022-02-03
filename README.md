@@ -1,4 +1,4 @@
-Oi! Meu nome é Marconi, estudo Desenvolvimento de Software Web na Trybe. Estou na metade do curso. Estou cursando o módulo de back-end.
+Oi! Meu nome é Marconi, estudo Desenvolvimento de Software Web na Trybe. Estou no final do curso. Estou cursando o módulo Computer Science.
 
 <!--
 **Marc-Web/Marc-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
