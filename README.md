@@ -1,16 +1,17 @@
-## Oi! Meu nome é Marconi!
+## Opa! Blz! Meu nome é Marconi! Sou Desenvolvedor de Software Web, em construção!
 
-<!--
-**Marc-Web/Marc-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marconimoreira/)
 
-Here are some ideas to get you started:
+![Marconi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marc-Web&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que utilizo atualmente:
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Me formei no curso de Desenvolvimento de Software Web da Trybe, em março de 2022. Atualmente estou participando de um Bootcamp de Desenvolvimento Web promovido pela Digital Innovation One, mantendo-me ativo para continuar aprendendo e conseguir entrar no mercado de trabalho.
