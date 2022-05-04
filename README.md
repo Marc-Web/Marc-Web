@@ -15,3 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>Me formei no curso de Desenvolvimento de Software Web da Trybe, em março de 2022. Atualmente estou participando de um Bootcamp de Desenvolvimento Web promovido pela Digital Innovation One, mantendo-me ativo para continuar aprendendo e conseguir entrar no mercado de trabalho.</p>
+
+
+<p>Fonte de pesquisa para estilização do README: https://www.youtube.com/watch?v=cRoBt6AZgjc&ab_channel=Sujeitoprogramador</p>
