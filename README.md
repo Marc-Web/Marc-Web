@@ -1,5 +1,7 @@
 ## Opa! Blz! Meu nome é Marconi! Sou Desenvolvedor de Software Web, em construção!
 
+<p>Me formei no curso de Desenvolvimento de Software Web da Trybe, em 2022. Atualmente estou em busca de um estágio não-remunerado em Desenvolvimento de Software Web tanto front end quanto back end.</p>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marconimoreira/)
 
 ![Marconi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marc-Web&show_icons=true&theme=dark)
@@ -13,8 +15,5 @@
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>Me formei no curso de Desenvolvimento de Software Web da Trybe, em 2022. Atualmente estou em busca de um estágio não-remunerado em Desenvolvimento de Software Web tanto front end quanto back end.</p>
-
 
 <p>Fonte de pesquisa para estilização do README: https://www.youtube.com/watch?v=cRoBt6AZgjc&ab_channel=Sujeitoprogramador</p>
