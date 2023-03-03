@@ -1,6 +1,9 @@
 ## Opa! Blz! Meu nome é Marconi! Sou Desenvolvedor de Software Web!
 
 <p>Me formei no curso de Desenvolvimento de Software Web da Trybe, em 2022. Atualmente estou em busca de um estágio em Desenvolvimento de Software Web tanto front end quanto back end.</p>
+<p>Meu trabalho mais rescente foi o desenvolvimento do site da banda Sturzen, o qual desenvolvi com HTML, CSS e JavaScript.</p>
+<p>Você pode acessá-lo aqui: https://sturzenbandaoficial.com/</p>
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marconimoreira/)
 
